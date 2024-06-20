@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "888287932669",
+    "project_id": "reuseable-code",
+
+    "storage_bucket": "reuseable-code.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888287932669:android:a160326ea8bd904adb8e94",
+
+        "android_client_info": {
+          "package_name": "com.example.reusable_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDMEiCaSmOvrxrIEvUwgqReCZaj5hwtBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
